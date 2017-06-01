@@ -1,0 +1,15 @@
+current directory: /Users/e155756/Documents/workspace2/toy2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/e155756/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170601-92159-1emzhs2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/e155756/Documents/workspace2/toy2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/e155756/Documents/workspace2/toy2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/e155756/Documents/workspace2/toy2/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20170601-92159-u7vxkq/bindex
